@@ -1,0 +1,9 @@
+
+{
+  "name": "CivicLens",
+  "description": "A modern web application that allows citizens to report civic issues (like potholes, broken streetlights, garbage problems) and for administrators to manage and track these reports.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
